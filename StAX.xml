@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<weatherSearches>
+	<search date="2019-04-03">
+		<term>Llangefni</term>
+		<found>false</found>
+		<geoNameID>2644037</geoNameID>
+	</search>
+</weatherSearches>
